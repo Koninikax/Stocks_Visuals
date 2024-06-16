@@ -1,2 +1,2 @@
 # Stocks_Visuals
-Creates a visual of the stock
+Creates a visual of the stock using dash framework
